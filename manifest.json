@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Calculator Chrome Extension",
+  "description": "A simple calculator that can be quickly accessed while browsing the web",
+  "version": "1.0",
+  "action": {
+    "default_popup": "calculator.html",
+    "default_icon": "assets/calculator-icon.png"
+  }
+}
